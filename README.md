@@ -1,4 +1,4 @@
-# Cs50x-2022
+# Cs50x-2022 🎓📚
 
 ((pt-br)) <br/>
 Conjunto de problemas do curso Cs50, da semana 0 a semana 10 <br/>
